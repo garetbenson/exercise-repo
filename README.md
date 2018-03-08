@@ -1,2 +1,3 @@
 # exercise-repo
-Repo made for exercise
+Repo made for exercises
+Making some changes here!
